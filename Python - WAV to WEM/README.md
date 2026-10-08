@@ -8,3 +8,5 @@ Converts WAV tracks one at a time with a `sound2wem` command script.
 2. Run: `python wav2wem.py`.
 
 Modify all three placeholder paths before running. The external converter must support the shown command-line options.
+
+[sound2wem repo link](https://github.com/EternalLeo/sound2wem)
