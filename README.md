@@ -1,8 +1,6 @@
 # Scripts
 
-Small Python and PowerShell utilities.
-
-## Folders
+Small Python, Bash and PowerShell utilities.
 
 - [Powershell - Audio to WAV](./Powershell%20-%20Audio%20to%20WAV/)
 - [Python - Get Pip](./Python%20-%20Get%20Pip/)
